@@ -1,4 +1,7 @@
 # 双胞胎珊瑚海兔
+
+[![Deploy Jekyll site to Pages](https://github.com/lmmsoft/child/actions/workflows/jekyll.yml/badge.svg)](https://github.com/lmmsoft/child/actions/workflows/jekyll.yml)
+
 - 记录双胞胎姐妹 珊瑚 & 海兔 的成长
 - 博客模版 [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/) 
 
