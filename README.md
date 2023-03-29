@@ -8,5 +8,7 @@
     - 最后选择了 Minimal Mistakes Jekyll theme，因为它是全网star排名第一的 Jekyll 主题
     - 备选方案是 同一作者的 [so-simple-theme](https://mmistakes.github.io/so-simple-theme/) Recipes页面很漂亮
   - github fork https://github.com/mmistakes/minimal-mistakes
+  - github setting 里配置 page，创建自动生成的 .github/workflows/jekyll.yml 文件
   - 删除无用文件 https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#remove-the-unnecessary
   - 补充 README.md .gitignore
+  - 修改 _config.yml 基本信息
