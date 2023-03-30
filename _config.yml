@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "珊瑚海兔"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "双胞胎姐妹珊瑚和海兔，生于中国 浙江 杭州"
-  location         : "杭州"
+  bio              : "双胞胎姐妹珊瑚和海兔，牛年元宵节出生"
+  location         : "中国，浙江，杭州"
   email            :
   links:
     - label: "Email"
